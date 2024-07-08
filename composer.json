@@ -1,0 +1,21 @@
+{
+  "name": "webdevcave/utility",
+  "description": "Utility classes for php",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Webdevcave\\Utility\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Carlos Alberto B. Carucce",
+      "homepage": "https://github.com/carloscarucce"
+    }
+  ],
+  "require": {
+    "php": ">=8",
+    "ext-mbstring": "*"
+  }
+}
