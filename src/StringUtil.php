@@ -7,7 +7,7 @@ class StringUtil
     public const DEFAULT_RANDOM_POOL = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789';
 
     /**
-     * Checks the length of a string (byte-safe)
+     * Checks the length of a string (byte-safe).
      *
      * @param string $string
      *

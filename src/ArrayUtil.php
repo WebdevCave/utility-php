@@ -5,7 +5,7 @@ namespace Webdevcave\Utility;
 class ArrayUtil
 {
     /**
-     *
+     * Create an array containing only the informed key(s).
      *
      * @param array        $array
      * @param array|string $key
